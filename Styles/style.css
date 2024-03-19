@@ -25,7 +25,7 @@ body {
 }
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 60px;
 }
 .cabecalho__menu-link {
     font-family: var(--fonte-secundaria);
@@ -111,7 +111,7 @@ body {
         padding: 6%;
     }
     .cabecalho__menu {
-    justify-content: center;
+    justify-content: space-around;
 }
     .apresentacao {
         flex-direction: column-reverse;
