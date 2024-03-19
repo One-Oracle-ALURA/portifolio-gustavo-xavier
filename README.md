@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]https://github.com/One-Oracle-ALURA/portifolio-gustavo-xavier/blob/main/assets/portifolio.png
+![image](https://github.com/One-Oracle-ALURA/portifolio-gustavo-xavier/blob/main/assets/portifolio.png)
 
 
 ## Ferramentas utilizadas:
