@@ -120,5 +120,6 @@ body {
 
     .apresentacao__conteudo {
         width: fit-content;
+        padding: 2px;
     }
 }
